@@ -1,1 +1,1 @@
-var name = "this is a javascript file, 修改第一行数据";
+var name = "第二次修改hello.js 数据";
