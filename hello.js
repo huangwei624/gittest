@@ -1,1 +1,1 @@
-var name = "this is a javascript file";
+var name = "修改了hello.js";
